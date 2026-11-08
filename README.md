@@ -1,2 +1,2 @@
 # notes-etudiants
-facultatif (ex. « TP DevSecOps »
+TP DevSecOps : application de consultation des notes), enregistre, puis :
