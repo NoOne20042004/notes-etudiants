@@ -6,4 +6,4 @@ __pycache__/
 # Registre des notes
 *.db
 # Réglages propres à ce poste
-.env
+.envjetons.json
